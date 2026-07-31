@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="VitaVet">
+  <rect width="64" height="64" rx="16" fill="#173f3b"/>
+  <path d="M20 15c5 0 9 4 9 9 0 4-2 7-5 9 5 2 8 6 8 12 0 7-6 12-14 12S5 51 5 43c0-9 7-16 15-16" fill="none" stroke="#f7f2e7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45 17c7 0 13 6 13 13 0 10-9 18-26 27-5-3-9-6-13-9" fill="none" stroke="#f7f2e7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M37 13v12M31 19h12" fill="none" stroke="#bfd0c5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
